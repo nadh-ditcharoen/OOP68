@@ -1,7 +1,15 @@
-# OOP68
-ทดลองสร้างสำหรับสอน OOP
 
-# Test
-hello world
+# OOP Course
 
-# Hello World
+A brief description of what this project does and who it's for
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
